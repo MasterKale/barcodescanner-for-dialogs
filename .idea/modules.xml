@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/barcodescanner-for-dialogs.iml" filepath="$PROJECT_DIR$/barcodescanner-for-dialogs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/barcodescanner-for-dialogs/main.iml" filepath="$PROJECT_DIR$/barcodescanner-for-dialogs/main.iml" />
+    </modules>
+  </component>
+</project>
+

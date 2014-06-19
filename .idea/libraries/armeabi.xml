@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="armeabi">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/intermediates/exploded-aar/me.dm7.barcodescanner/zbar/1.0/libs/armeabi.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

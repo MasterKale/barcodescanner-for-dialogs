@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">QR Code Scanner Demo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="scanBack">Tap to Scan (Back Camera)</string>
+    <string name="scanFront">Tap to Scan (Front Camera)</string>
+    <string name="scan_badge">Scan Badge</string>
+
+</resources>

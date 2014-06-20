@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/barcodescanner-for-dialogs.iml" filepath="$PROJECT_DIR$/barcodescanner-for-dialogs.iml" />
-      <module fileurl="file://$PROJECT_DIR$/barcodescanner-for-dialogs/main.iml" filepath="$PROJECT_DIR$/barcodescanner-for-dialogs/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/barcodescanner-for-dialogs/barcodescanner-for-dialogs-barcodescanner-for-dialogs.iml" filepath="$PROJECT_DIR$/barcodescanner-for-dialogs/barcodescanner-for-dialogs-barcodescanner-for-dialogs.iml" />
     </modules>
   </component>
 </project>
